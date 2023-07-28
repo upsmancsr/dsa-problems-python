@@ -33,7 +33,7 @@ def keyboard_steps(target, row_len):
     return steps
 
 print(keyboard_steps('hello', 5))
-# Output: ['r', 'r', 'r', 'r', '!', 'd', 'd', 'r', '!', '!', 'l', 'l', 'l', 'u', '!', 'd', 'd', 'r', 'r', 'r', '!']
+# ['d', 'r', 'r', '!', 'u', 'r', 'r', '!', 'd', 'd', 'l', 'l', 'l', '!', '!', 'r', 'r', 'r', '!']
 
 
 
